@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DIODE-SCHOTTKY-BAT20J
+D Schottky diode A Schottky diode is a semiconductor diode which has a low forward voltage drop and a very fast switching action. 
+K PROD_ID:DIO-11623
+$ENDCMP
+#
+#End Doc Library

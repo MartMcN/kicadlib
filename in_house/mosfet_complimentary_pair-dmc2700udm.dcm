@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MOSFET_COMPLIMENTARY_PAIR-DMC2700UDM
+D Complementary MOSFET A P and N channel MOSFET in a single package. Rated to breakdown at 20V <a href='http://www.diodes.com/_files/datasheets/DMC2700UDM.pdf'>Link to datasheet</a> <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/12780 >ZX Distance and Gesture Sensor</a></li></ul>
+$ENDCMP
+#
+#End Doc Library

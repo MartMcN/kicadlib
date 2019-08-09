@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LED-WHITE0603
+D White SMD LED Used in manufacturing several products at SparkFun. <b>Packages:</b><ul><li><b> 0603</b> - Bright White SMD 0603  package<a href="http://www.kingbrightusa.com/product.asp?catalog_name=LED&product_id=APT1608QWF/D">[Product Link]</li><li><b> 1206</b> - Bright White SMD1206  package <a href="http://www.kingbrightusa.com/product.asp?catalog_name=LED&product_id=APT3216QWF/D">[Product Link]</li><li><b> 3014</b> - Super Bright SMD 3014 package <a href="http://www.lumileds.com/uploads/459/DS208-pdf">[Datasheet]</li><ul> <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13169 >Blackberry Trackballer Breakout</a></li><li><a href= https://www.sparkfun.com/products/12651 >Digital SandBox</a></li></ul> 
+K PROD_ID:DIO-09004
+$ENDCMP
+#
+#End Doc Library
