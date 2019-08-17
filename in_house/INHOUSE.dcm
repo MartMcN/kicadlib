@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NCP161ASN330T1G
+D 450mA LDO SOT23-5
+F https://www.onsemi.com/pub/Collateral/NCP161-D.PDF
+$ENDCMP
+#
+#End Doc Library
