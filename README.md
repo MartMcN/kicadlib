@@ -2,4 +2,4 @@
 
 Kicad symbols and footprints used on projects in-house
 
-kicad verison 5
+kicad verison 7
